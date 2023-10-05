@@ -32,6 +32,6 @@ public class Triangle{
 
     public String toString(){
         double area = getArea();
-        return("[Triangle " + "Base: " + base + " Height: " + height + " Area: " + area  );
+        return("Triangle[Base: " + base + " Height: " + height + " Area: " + area + "]");
     }
 }
