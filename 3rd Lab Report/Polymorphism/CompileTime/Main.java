@@ -3,6 +3,6 @@ public class Main {
         Arithmetic a = new Arithmetic();
         a.sum();
         System.out.println(a.sum(5, 6.5));;
-        System.out.println(a.sum(5, 5.5, 4));;
+        System.out.println(a.sum(5, 5.5, 4));
     }
 }
