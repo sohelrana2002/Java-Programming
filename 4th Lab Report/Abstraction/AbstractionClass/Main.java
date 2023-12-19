@@ -1,7 +1,7 @@
 public class Main {
     public static void main(String[] args) {
         Phone p;
-
+        
         p = new Xiaomi();
         p.PhoneName();
         p.setRam();

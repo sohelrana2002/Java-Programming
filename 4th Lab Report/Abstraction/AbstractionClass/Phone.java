@@ -3,6 +3,6 @@ abstract public class Phone{
         System.out.println("Main Phone class");
     }
 
-    abstract void setRam();
-    abstract void setRom();
+    abstract public void setRam();
+    abstract public void setRom();
 }
